@@ -17,7 +17,9 @@ The Station class has attributes such as the name, id, and number of bikes that 
 The list is then sorted by the number of bikes arriving there minus the number of bikes leaving there in decending order.
 Next a bar chart is mades such that the increase in bikes is on the vertical axis and the station ids are on the horizontal axis. 
 
-The result is that the bike stations that gained the most are furthest left and the stations that lost the most are furthest right. The larger the magnitude of the bar the more inbalanced the station is.
+
+On the chart, the bike stations that had the most arrivals compared to returns are furthest left.
+The bike stations that had the most bikes leaving rather than entering are furthest right. The larger the magnitude of the bar the more inbalanced the station is.
 
 
 
