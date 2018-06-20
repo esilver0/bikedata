@@ -17,7 +17,7 @@ The Station class has attributes such as the name, id, and number of bikes that 
 The list is then sorted by the number of bikes arriving minus the number of bikes leaving (in decending order).
 Next a bar chart is made such that the increase in bikes is on the vertical axis and the station ids are on the horizontal axis. 
 
-On the chart, the bike stations that had the greatest net gain of bikes are furthest left and the bike stations that had the greatest net gain of bikes are furthest right.
+On the chart, the bike stations that had the greatest net gain of bikes are furthest left and the bike stations that had the greatest net loss of bikes are furthest right.
 The larger the magnitude of the bar the more inbalanced the station is.
 
 
