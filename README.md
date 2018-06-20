@@ -1,8 +1,8 @@
 # bikedata
 
 #### Instructions:
-Obtain a citi bike data csv file
-Run _bikestation.py_ to analyze the data 
+Obtain a citi bike data csv file \
+Run _bikestation.py_ to analyze the data \
 You will need _station.py_ as well.
 
 
@@ -26,12 +26,12 @@ A result using a small data set:
 
 <img src="https://raw.githubusercontent.com/esilver0/bikedata/master/smalldataset.png" width="600">
 
+
 \
 \
 \
-\
-\
-A result using a larger data set from January 2016. You may want to open the image in a new tab.
+A result using a larger data set from January 2016. You may want to open the image in a new tab or scroll down to see the image rotated.
+
 
 ![data](https://raw.githubusercontent.com/esilver0/bikedata/master/stationgraph.png)
 
@@ -41,7 +41,7 @@ A result using a larger data set from January 2016. You may want to open the ima
 \
 \
 \
-Here is the same image rotated:
+Rotated Image:
 
 <img src="https://raw.githubusercontent.com/esilver0/bikedata/master/stationgraph_rotated.png" width="600">
 
