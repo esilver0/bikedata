@@ -194,7 +194,7 @@ def plot(bikestations, outputfile = 'bikestations.png'):
 
 	plt.tight_layout()
 
-	fig.savefig(outputfile) 
+	fig.savefig(outputfile)		# Saves the figure to file
 
 #-----------------------------------------------------------------------------#
 
