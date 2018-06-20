@@ -19,7 +19,7 @@ Next a bar chart is mades such that the increase in bikes is on the vertical axi
 
 
 On the chart, the bike stations that had the most arrivals minus departures are furthest left.
-The bike stations that had the most bike departures minus arrivals are furthest right. The larger the magnitude of the bar the more inbalanced the station is.
+The bike stations that had the most departures minus arrivals are furthest right. The larger the magnitude of the bar the more inbalanced the station is.
 
 
 
