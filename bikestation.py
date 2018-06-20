@@ -68,8 +68,8 @@ def __main__():
 		  "\tDeparture count:", bikestations[i].get_departure_count() )	
 	'''
 
-	# Saves graph as png
 	graph = 'stationgraph.png'
+	# Creates and saves graph as png
 	plot(bikestations, graph) 
 	print("A graph has been saved as:", graph)
 
